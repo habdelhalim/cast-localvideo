@@ -54,6 +54,3 @@ TODOs
 5.	Embed subtitles via FFMpeg.
 6.	Resize the videos if they are too big.
 7.	Options to change encoding options.
-
-### Contact
-Contact *mustafa91* at *gmail* for any questions. My website is [here](http://mustafaak.in).
